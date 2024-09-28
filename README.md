@@ -2,6 +2,10 @@
 
 ![LinkedIn UI App](https://github.com/user-attachments/assets/f3555220-2d45-488d-b2f8-07503ebe525b)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 A new Flutter project.  
 
 ## Getting Started
